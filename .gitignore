@@ -1,0 +1,10 @@
+# Ignore IDE config files
+.idea/
+.DS_Store
+
+# Ignore downloaded files
+downloads/
+
+# Ignore any log or temporary files
+*.log
+*.json
